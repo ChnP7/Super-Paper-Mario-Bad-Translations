@@ -1,7 +1,7 @@
 # Super-Paper-Mario-Bad-Translations
 Super Paper Mario Dialogue turned into a fun mess.
 
-Example image to be added later here.
+![Screenshot](sample.jpeg)
 
 ## Purpose
 This project takes the text within the game Super Paper Mario and translates it multiple times to produce very funny dialogue within the game in broken English which may include sarcasm, contradictions to the game's plot, innuendos, and things that may not make any sense at all. 
