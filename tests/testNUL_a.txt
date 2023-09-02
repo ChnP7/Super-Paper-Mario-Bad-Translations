@@ -1,0 +1,6 @@
+<NUL> How is the weather? <NUL>
+It is good! <NUL>
+<NUL>
+Yes it sure is.
+<NUL><NUL><NUL><NUL>
+What <NUL> Is <NUL> Your <NUL>Name?

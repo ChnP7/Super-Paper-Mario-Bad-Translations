@@ -1,0 +1,22 @@
+Do you want to use the
+Return Pipe to warp back to
+Flipside?
+<o><NUL><modoridokan_02><NUL><select 1 -1 150 40>
+Yes
+No<NUL><modoridokan_03><NUL><system>
+You can't use the Return
+Pipe here!
+<k><NUL><modoridokan_04><NUL><system>
+You can't use the Return
+Pipe now!
+<k><NUL><modoridokan_05><NUL><system>
+You can use your Return Pipe
+to get back to Flipside from
+most places.
+<k>
+<placeholder>
+But it's a one-way trip, so
+you'll have to hike back to
+the spot you used it!
+<k>
+<placeholder>

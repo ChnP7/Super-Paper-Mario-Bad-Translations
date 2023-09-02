@@ -1,0 +1,79 @@
+<place_town><NUL>Flipside<NUL><place_stg1><NUL>Lineland<NUL><place_stg2><NUL>Gloam Valley<NUL><place_stg3><NUL>The Bitlands<NUL><place_stg4><NUL>Outer Space<NUL><place_stg5><NUL>Land of the Cragnons<NUL><place_stg6><NUL>Sammer's Kingdom<NUL><place_stg7><NUL>The Underwhere<NUL><place_stg8><NUL>Castle Bleck<NUL><place_town_tw><NUL>Flipside Tower<NUL><place_town_03><NUL>Flipside 3rd Floor<NUL><place_town_02><NUL>Flipside 2nd Floor<NUL><place_town_01><NUL>Flipside 1st Floor<NUL><place_town_b1><NUL>Flipside B1<NUL><place_town_b2><NUL>Flipside B2<NUL><place_town_100><NUL>Pit of 100 Trials<NUL><place_town_02_out><NUL>Flipside 2nd Floor Outskirts<NUL><place_town_01_out><NUL>Flipside 1st Floor Outskirts<NUL><place_town_b1_out><NUL>Flipside B1 Outskirts<NUL><place_town_b2_out><NUL>Flipside B2 Outskirts<NUL><place_town_kagami><NUL>Mirror Hall<NUL><place_town_ura_tw><NUL>Flopside Tower<NUL><place_town_ura_03><NUL>Flopside 3rd Floor<NUL><place_town_ura_02><NUL>Flopside 2nd Floor<NUL><place_town_ura_01><NUL>Flopside 1st Floor<NUL><place_town_ura_b1><NUL>Flopside B1<NUL><place_town_ura_b2><NUL>Flopside B2<NUL><place_town_ura_100><NUL>Flopside Pit of 100 Trials<NUL><place_town_ura_02_out><NUL>Flopside 2nd Floor Outskirts<NUL><place_town_ura_01_out><NUL>Flopside 1st Floor Outskirts<NUL><place_town_ura_b1_out><NUL>Flopside B1 Outskirts<NUL><place_town_ura_b2_out><NUL>Flopside B2 Outskirts<NUL><place_stg1_1><NUL>Lineland Road<NUL><place_stg1_2><NUL>Mount Lineland<NUL><place_stg1_3><NUL>Yold Desert<NUL><place_stg1_4><NUL>Yold Ruins<NUL><place_stg2_1><NUL>Gloam Valley<NUL><place_stg2_2><NUL>Merlee's Mansion<NUL><place_stg2_3><NUL>Merlee's Mansion<NUL><place_stg2_4><NUL>Merlee's Basement<NUL><place_stg3_1><NUL>The Bitlands<NUL><place_stg3_2><NUL>The Tile Pool<NUL><place_stg3_3><NUL>The Dotwood Tree<NUL><place_stg3_4><NUL>Fort Francis<NUL><place_stg4_1><NUL>Outer Space<NUL><place_stg4_2><NUL>Planet Blobule<NUL><place_stg4_3><NUL>Outer Limits<NUL><place_stg4_4><NUL>The Whoa Zone<NUL><place_stg5_1><NUL>Downtown of Crag<NUL><place_stg5_2><NUL>Gap of Crag<NUL><place_stg5_3><NUL>Floro Caverns<NUL><place_stg5_4><NUL>Floro Caverns<NUL><place_stg6_1><NUL>Sammer's Kingdom<NUL><place_stg6_2><NUL>Sammer's Early Duels<NUL><place_stg6_3><NUL>Sammer's Proving Grounds<NUL><place_stg6_4><NUL>Sammer's Endgame<NUL><place_stg7_1><NUL>The Underwhere<NUL><place_stg7_2><NUL>Underwhere Road<NUL><place_stg7_3><NUL>Overthere Stair<NUL><place_stg7_4><NUL>The Overthere<NUL><place_stg8_1><NUL>Castle Bleck Entry<NUL><place_stg8_2><NUL>Castle Bleck Foyer<NUL><place_stg8_3><NUL>Castle Bleck Interior<NUL><place_stg8_4><NUL>Castle Bleck Inner Sanctum<NUL><sub_title_stg1_1><NUL>The Adventure Unfolds<NUL><sub_title_stg1_2><NUL>Afoot in the Foothills<NUL><sub_title_stg1_3><NUL>The Sands of Yold<NUL><sub_title_stg1_4><NUL>Monster of the Ruins<NUL><sub_title_stg2_1><NUL>Bogging to Merlee's<NUL><sub_title_stg2_2><NUL>Tricks, Treats, Traps<NUL><sub_title_stg2_3><NUL>Breaking the Bank<NUL><sub_title_stg2_4><NUL>The Basement Face-off<NUL><sub_title_stg3_1><NUL>When Geeks Attack<NUL><sub_title_stg3_2><NUL>Bloops Ahoy<NUL><sub_title_stg3_3><NUL>Up, Up, and a Tree<NUL><sub_title_stg3_4><NUL>The Battle of Fort Francis<NUL><sub_title_stg4_1><NUL>Into Outer Space<NUL><sub_title_stg4_2><NUL>A Paper Emergency<NUL><sub_title_stg4_3><NUL>The Gates of Space<NUL><sub_title_stg4_4><NUL>The Mysterious Mr. L<NUL><sub_title_stg5_1><NUL>Downtown of Crag<NUL><sub_title_stg5_2><NUL>Pixls, Tablets, and Crag<NUL><sub_title_stg5_3><NUL>A Crag in the Dark<NUL><sub_title_stg5_4><NUL>The Menace of King Croacus<NUL><sub_title_stg6_1><NUL>Sammer Guy Showdown<NUL><sub_title_stg6_2><NUL>The End of a World<NUL><sub_title_stg6_3><NUL>Sammer Guy Showdown<NUL><sub_title_stg6_4><NUL>Sammer Guy Showdown<NUL><sub_title_stg7_1><NUL>Subterranean Vacation<NUL><sub_title_stg7_2><NUL>The Sealed Doors Three<NUL><sub_title_stg7_3><NUL>The Forbidden Apple<NUL><sub_title_stg7_4><NUL>A Bone-Chilling Tale<NUL><sub_title_stg8_1><NUL>The Impending Darkness<NUL><sub_title_stg8_2><NUL>The Crash<NUL><sub_title_stg8_3><NUL>Countdown to Destruction<NUL><sub_title_stg8_4><NUL>Tippi and Count Bleck<NUL><modoridokan_01><NUL><system>
+
+<stg1_1_000><NUL><se 2>
+<diary>
+<wpos -280 100 560 185>
+Mario was called upon once
+again to save the world...
+no small task.
+<k>
+<placeholder>
+Could he prevent Count
+Bleck from pulling off his
+sinister plot?
+<k>
+<placeholder>
+Would Mario reunite with
+Princess Peach?
+<k>
+<placeholder>
+A truly interdimensional
+adventure was about to
+begin...
+<k><NUL><stg1_1_001><NUL><fairy>
+I feel the Pure Heart.
+<wait 250>
+But it's still far from here...
+<k><NUL><stg1_1_001_WHF><NUL><fairy>
+So, this is where our search
+for the Pure Heart begins...
+<k><NUL><stg1_1_001_01><NUL><fairy>
+Merlon told us to find his
+friend, Bestovius, to learn
+that dimensional technique.
+<k>
+<placeholder>
+We'd better go find him...
+<k><NUL><stg1_1_001_01_WHF><NUL><fairy>
+Press <icon <PAD_A> 0.58 0 0 0> to flip between
+dimensions...
+<k><NUL><stg1_1_001_03><NUL><fairy>
+<wait 100>
+One more thing...
+<k>
+<placeholder>
+If you want to learn about
+anything, just use my power...
+<wait 250>
+I know about many things...
+<k><NUL><stg1_1_001_04><NUL><system>
+Simply point your Wii Remote
+at the screen and Tippi will
+focus on where you point.
+<k>
+<placeholder>
+Then, just press <icon <PAD_A> 0.58 0 3 2> over
+anything framed in red to
+hear more about it.
+<k>
+<placeholder>
+Feel free to ask Tippi about
+anything or anyone you want!
+<k><NUL><stg1_1_001_05><NUL><fairy>
+This is not an empty house...
+<wait 250>
+There's something in this
+room. I can feel it...
+<k>
+<placeholder>
+I can help you find hidden
+things. Why don't you use my
+power to look around?
+<k><NUL><stg1_1_001_06><NUL><fairy>
+It's a door...<wait 250> Let's go inside...
+<k><NUL><stg1_1_001_07><NUL><system>
+The sign says, "Here resides
+the great and glorious
+Bestovius."
+<k><NUL><stg1_1_002_00><NUL><dynamic 3>
+<k><NUL><NUL><NUL>
